@@ -1,2 +1,2 @@
 # Nx
-Testing Nx in githab actions
+Testing Nx in github actions
